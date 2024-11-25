@@ -1,0 +1,25 @@
+{
+  "sender": "WhatsApp +919884611888",
+  "data": {
+    "Destination": "Da Nang",
+    "Price": "$163.405",
+    "Product": "OCC 95/5",
+    "Quantity": 750,
+    "Weight per Unit": 25,
+    "Units per Container": 30,
+    "Destination Country": "Italy",
+    "Supplier": "Lodigiana Maceri",
+    "Price (EXW)": "€105",
+    "Loading Date": "April 15, 2024",
+    "Deadline": "One day before loading",
+    "Shipping Cost": "$550",
+    "Additional Cost": "€17 per ton",
+    "Transport Type": "DB",
+    "Shipping Line": "MSC",
+    "Logistics Provider": "DB Schenker",
+    "Exchange Rate": 1.0935,
+    "AS Commission": "$1 per ton",
+    "Paolo Commission": "€2 per ton",
+    "Docs/Customs": "€4.4 per ton"
+  }
+}
